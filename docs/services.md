@@ -20,9 +20,9 @@ Services correspond with a Node.js module as described in 'package.json', for ex
 ```json
 {
   "dependencies": {
-    "ravencore-lib": "underdarkskies/ravencore-lib",
-    "ravencore-node": "underdarkskies/ravencore-node",
-    "insight-api": "underdarkskies/insight-api"
+    "ravencore-lib": "OverstockMedici/ravencore-lib",
+    "ravencore-node": "OverstockMedici/ravencore-node",
+    "insight-api": "OverstockMedici/insight-api"
   }
 }
 ```
