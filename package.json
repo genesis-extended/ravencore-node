@@ -4,10 +4,10 @@
   "author": "Under",
   "version": "1.0.3",
   "main": "./index.js",
-  "repository": "git://github.com/underdarkskies/ravencore-node.git",
-  "homepage": "https://github.com/underdarkskies/ravencore-node",
+  "repository": "git://github.com/OverstockMedici/ravencore-node.git",
+  "homepage": "https://github.com/OverstockMedici/ravencore-node",
   "bugs": {
-    "url": "https://github.com/underdarkskies/ravencore-node/issues"
+    "url": "https://github.com/OverstockMedici/ravencore-node/issues"
   },
   "bin": {
     "ravencore-node": "./bin/ravencore-node",
@@ -28,8 +28,8 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "ravend-rpc": "underdarkskies/ravend-rpc",
-    "ravencore-lib": "underdarkskies/ravencore-lib",
+    "ravend-rpc": "OverstockMedici/ravend-rpc",
+    "ravencore-lib": "OverstockMedici/ravencore-lib",
     "body-parser": "^1.18.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
@@ -49,8 +49,8 @@
     "utf-8-validate": "~4.0.1"
   },
   "devDependencies": {
+    "@sinonjs/samsam": "^2.1.2",
     "benchmark": "1.0.0",
-    "ravencore-p2p": "underdarkskies/ravencore-p2p",
     "chai": "^4.1.2",
     "coveralls": "^3.0.1",
     "istanbul": "^0.4.3",
@@ -58,6 +58,7 @@
     "jshint-stylish": "^2.1.0",
     "mocha": "^5.0.5",
     "proxyquire": "^1.3.1",
+    "ravencore-p2p": "OverstockMedici/ravencore-p2p",
     "rimraf": "^2.4.2",
     "sinon": "^4.4.8"
   },

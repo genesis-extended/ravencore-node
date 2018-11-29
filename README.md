@@ -1,7 +1,7 @@
 Ravencore Node
 ============
 
-A Ravencoin full node for building applications and services with Node.js. A node is extensible and can be configured to run additional services. At the minimum a node has an interface to [Ravencoin with additional indexing](https://github.com/underdarkskies/ravencoin/tree/0.15.0-ravencore) for more advanced address queries. Additional services can be enabled to make a node more useful such as exposing new APIs, running a block explorer and wallet service.
+A Ravencoin full node for building applications and services with Node.js. A node is extensible and can be configured to run additional services. At the minimum a node has an interface to [Ravencoin with additional indexing](https://github.com/RavenProject/Ravencoin/tree/0.15.0-ravencore) for more advanced address queries. Additional services can be enabled to make a node more useful such as exposing new APIs, running a block explorer and wallet service.
 
 ## Install
 
@@ -10,7 +10,7 @@ npm install -g ravencore-node
 ravencore-node start
 ```
 
-Note: For your convenience, we distribute ravend binaries for x86_64 Linux and x86_64 Mac OS X. Upon npm install, the binaries for your platform will be downloaded. For more detailed installation instructions, or if you want to compile the project yourself, then please see the Ravencore branch of [Ravencoin with additional indexing](https://github.com/underdarkskies/ravencoin/tree/0.15.0-ravencore).
+Note: For your convenience, we distribute ravend binaries for x86_64 Linux and x86_64 Mac OS X. Upon npm install, the binaries for your platform will be downloaded. For more detailed installation instructions, or if you want to compile the project yourself, then please see the Ravencore branch of [Ravencoin with additional indexing](https://github.com/RavenProject/Ravencoin/tree/0.15.0-ravencore).
 
 ## Prerequisites
 
@@ -37,9 +37,9 @@ This will create a directory with configuration files for your node and install 
 
 There are several add-on services available to extend the functionality of Ravencore:
 
-- [Insight API](https://github.com/underdarkskies/insight-api)
-- [Insight UI](https://github.com/underdarkskies/insight-ui)
-- [Ravencore Wallet Service](https://github.com/underdarkskies/ravencore-wallet-service)
+- [Insight API](https://github.com/OverstockMedici/insight-api)
+- [Insight UI](https://github.com/OverstockMedici/insight-ui)
+- [Ravencore Wallet Service](https://github.com/OverstockMedici/ravencore-wallet-service)
 
 ## Documentation
 
@@ -54,8 +54,8 @@ There are several add-on services available to extend the functionality of Raven
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/underdarkskies/ravencore/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/OverstockMedici/ravencore/blob/master/CONTRIBUTING.md) file.
 
 ## License
 
-Code released under [the MIT license](https://github.com/underdarkskies/ravencore-node/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/OverstockMedici/ravencore-node/blob/master/LICENSE).

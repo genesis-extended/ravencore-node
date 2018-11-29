@@ -1,6 +1,6 @@
 # Ravencoin Service
 
-The Ravencoin Service is a Node.js interface to [Ravencoin](https://github.com/ravenproject/ravencoin) for querying information about the ravencoin block chain. It will manage starting and stopping `ravend` or connect to several running `ravend` processes. It uses a branch of a [branch of Ravencoin](https://github.com/underdarkskies/ravencoin/tree/0.15.0-ravencore/) with additional indexes for querying information about addresses and blocks. Results are cached for performance and there are several additional API methods added for common queries.
+The Ravencoin Service is a Node.js interface to [Ravencoin](https://github.com/ravenproject/ravencoin) for querying information about the ravencoin block chain. It will manage starting and stopping `ravend` or connect to several running `ravend` processes. It uses a branch of a [branch of Ravencoin](https://github.com/RavenProject/Ravencoin/tree/0.15.0-ravencore/) with additional indexes for querying information about addresses and blocks. Results are cached for performance and there are several additional API methods added for common queries.
 
 ## Configuration
 
