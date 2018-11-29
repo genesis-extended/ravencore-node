@@ -4,10 +4,10 @@
   "author": "Under",
   "version": "1.0.3",
   "main": "./index.js",
-  "repository": "git://github.com/OverstockMedici/ravencore-node.git",
-  "homepage": "https://github.com/OverstockMedici/ravencore-node",
+  "repository": "git://github.com/RavenDevKit/ravencore-node.git",
+  "homepage": "https://github.com/RavenDevKit/ravencore-node",
   "bugs": {
-    "url": "https://github.com/OverstockMedici/ravencore-node/issues"
+    "url": "https://github.com/RavenDevKit/ravencore-node/issues"
   },
   "bin": {
     "ravencore-node": "./bin/ravencore-node",

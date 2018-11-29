@@ -37,9 +37,9 @@ This will create a directory with configuration files for your node and install 
 
 There are several add-on services available to extend the functionality of Ravencore:
 
-- [Insight API](https://github.com/OverstockMedici/insight-api)
-- [Insight UI](https://github.com/OverstockMedici/insight-ui)
-- [Ravencore Wallet Service](https://github.com/OverstockMedici/ravencore-wallet-service)
+- [Insight API](https://github.com/RavenDevKit/insight-api)
+- [Insight UI](https://github.com/RavenDevKit/insight-ui)
+- [Ravencore Wallet Service](https://github.com/RavenDevKit/ravencore-wallet-service)
 
 ## Documentation
 
@@ -54,8 +54,8 @@ There are several add-on services available to extend the functionality of Raven
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/OverstockMedici/ravencore/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/RavenDevKit/ravencore/blob/master/CONTRIBUTING.md) file.
 
 ## License
 
-Code released under [the MIT license](https://github.com/OverstockMedici/ravencore-node/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/RavenDevKit/ravencore-node/blob/master/LICENSE).

@@ -129,7 +129,7 @@ Edit `ravencore-node.json` with something similar to:
 }
 ```
 
-**Note**: To install services [insight-api](https://github.com/OverstockMedici/insight-api) and [insight-ui](https://github.com/OverstockMedici/insight-ui) you'll need to clone the repositories locally.
+**Note**: To install services [insight-api](https://github.com/RavenDevKit/insight-api) and [insight-ui](https://github.com/RavenDevKit/insight-ui) you'll need to clone the repositories locally.
 
 Setup symlinks for all of the services and dependencies:
 
