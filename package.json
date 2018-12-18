@@ -28,8 +28,8 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "ravend-rpc": "OverstockMedici/ravend-rpc",
-    "ravencore-lib": "OverstockMedici/ravencore-lib",
+    "ravend-rpc": "RavenDevKit/ravend-rpc",
+    "ravencore-lib": "RavenDevKit/ravencore-lib",
     "body-parser": "^1.18.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
@@ -58,7 +58,7 @@
     "jshint-stylish": "^2.1.0",
     "mocha": "^5.0.5",
     "proxyquire": "^1.3.1",
-    "ravencore-p2p": "OverstockMedici/ravencore-p2p",
+    "ravencore-p2p": "RavenDevKit/ravencore-p2p",
     "rimraf": "^2.4.2",
     "sinon": "^4.4.8"
   },
