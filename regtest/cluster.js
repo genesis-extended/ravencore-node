@@ -6,7 +6,7 @@ var spawn = require('child_process').spawn;
 
 var RavencoinRPC = require('ravend-rpc');
 var rimraf = require('rimraf');
-var ravencore = require('ravencore-lib');
+var ravencore = require('@ravendevkit/ravencore-lib');
 var chai = require('chai');
 var should = chai.should();
 

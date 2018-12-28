@@ -9,7 +9,7 @@ var log = index.log;
 log.debug = function() {};
 
 var chai = require('chai');
-var ravencore = require('ravencore-lib');
+var ravencore = require('@ravendevkit/ravencore-lib');
 var rimraf = require('rimraf');
 var node;
 

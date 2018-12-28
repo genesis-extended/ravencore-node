@@ -7,7 +7,7 @@ var index = require('..');
 var log = index.log;
 
 var chai = require('chai');
-var ravencore = require('ravencore-lib');
+var ravencore = require('@ravendevkit/ravencore-lib');
 var BN = ravencore.crypto.BN;
 var async = require('async');
 var rimraf = require('rimraf');

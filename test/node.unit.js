@@ -2,7 +2,7 @@
 
 var should = require('chai').should();
 var sinon = require('sinon');
-var ravencore = require('ravencore-lib');
+var ravencore = require('@ravendevkit/ravencore-lib');
 var Networks = ravencore.Networks;
 var proxyquire = require('proxyquire');
 var util = require('util');

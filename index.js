@@ -24,4 +24,4 @@ module.exports.cli.daemon = require('./lib/cli/daemon');
 module.exports.cli.ravencore = require('./lib/cli/ravencore');
 module.exports.cli.ravencored = require('./lib/cli/ravencored');
 
-module.exports.lib = require('ravencore-lib');
+module.exports.lib = require('@ravendevkit/ravencore-lib');
