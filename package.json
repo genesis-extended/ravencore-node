@@ -27,7 +27,7 @@
   "dependencies": {
     "async": "^2.5.0",
     "ravend-rpc": "RavenDevKit/ravend-rpc",
-    "@ravendevkit/ravencore-lib": "^1.0.3",
+    "@ravendevkit/ravencore-lib": "^1.0.4",
     "body-parser": "^1.18.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
